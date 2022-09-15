@@ -1,7 +1,7 @@
 # Myne マイン
 
 <p align="center">
-<img src="https://telegra.ph/file/5b7ba8dd40861f112ec19.jpg">
+<img src="https://telegra.ph/file/9f404388d8bb07ded2160.jpg">
 </p>
 
 # Appearance
